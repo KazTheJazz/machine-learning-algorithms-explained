@@ -1,1 +1,1 @@
-# please take a look at the jupyter notebook for more information
+# please take a look at the jupyter notebooks available for more information
